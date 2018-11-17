@@ -22,3 +22,15 @@ Thus, we have Big O!
 
 ## Time complexity and Space complexity
 
+From my understanding, time complexity is the big O, which mainly depends on the time it loop through,
+while space complexity is the code you have in each loop.
+
+
+
+
+`def func(n):`
+
+    `for i in range(n):` this is where time complexity is calculate
+    
+      `print "hello world"` . within the loop, this is where space complexity is calculated
+      
