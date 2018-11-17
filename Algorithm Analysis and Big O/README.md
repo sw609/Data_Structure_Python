@@ -17,3 +17,8 @@ Thus, we have Big O!
 
 
 ![MathGraph](mathplot.png)
+
+
+
+## Time complexity and Space complexity
+
