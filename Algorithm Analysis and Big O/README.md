@@ -14,4 +14,6 @@ Thus, we have Big O!
 - O(n^3)    - cubic
 - O(2^n)    - exponential
 
-! [Missing Image] (mathplot.png)
+
+
+![MathGraph](mathplot.png)
